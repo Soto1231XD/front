@@ -156,7 +156,7 @@ export default function ContactForm() {
           {/* Mensaje */}
           <div>
             <label className="block text-sm font-medium text-gray-700 mb-1">
-              Mensaje
+              Mensaje a enviar
             </label>
             <div className="flex items-start border border-gray-300 rounded-lg overflow-hidden">
               <span className="bg-blue-100 px-3 py-3 text-blue-600">
